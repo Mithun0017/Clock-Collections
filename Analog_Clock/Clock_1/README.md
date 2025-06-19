@@ -32,7 +32,7 @@ A beautifully crafted **vintage-style clock** with Roman numerals, ticking sound
 
 - **Animation & sound sync**:  
   - `animateClock()` triggers `drawClock()` via `requestAnimationFrame`  
-  - On second change, plays tick sound (`tick.mp3`) using the `Audio` object—this follows patterns seen in analog-clock sound toggles :contentReference[oaicite:0]{index=0}
+  - On second change, plays tick sound (`tick.mp3`) using the `Audio` object—this follows patterns seen in analog-clock sound toggles
 
 - **Decorative styling**:  
   - `drawCenter()` creates a metallic central cap with radial gradient  
