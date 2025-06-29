@@ -1,23 +1,24 @@
 # ⏰ Clock Collection
 
-A curated collection of clock designs implemented in **HTML**, **CSS**, and **JavaScript**. Includes multiple clock styles—digital, analog, and themed—for showcasing time-based UI components and learning projects.
+A curated collection of clock and stopwatch designs implemented in **multiple programming languages and environments**, including:
+
+- **HTML**, **CSS**, and **JavaScript** (web-based clocks)
+- **Python** (CLI, GUI with Tkinter, and PyQt5 versions)
 
 ---
 
-## ✅ Current Clock Variants
+## ✅ Current Variants
 
 - **Digital Clock** – Live updating HH:MM:SS display  
-- **Analog Clock** – CSS/JS circular clock with hands  
-- **Themed Clock** – e.g., dark mode, neon glow clock  
+- **Analog Clock**  – Circular clock with moving hands  
 
 ---
 
 ## 🎉 Highlights
 
-- **Dynamic visuals**: Smooth ticking animations for analog clocks; styled digital clocks that update every second.
-- **Modular architecture**: Each clock lives in its own folder for easy reuse and expansion.
-- **Customizable themes**: Swap out CSS to rebrand any clock (dark mode, neon, minimal, etc.).
-- **Responsive by default**: All clocks scale beautifully from desktop to mobile.
+- **Cross-language implementations**: Web (JS/HTML/CSS) and Desktop (Python GUI/CLI)
+- **Rich GUI experiences**: Desktop versions with custom styling using Tkinter and PyQt5
+- **Modular & extended**: Each variant housed in its own folder for easy expansion
+- **Responsive & themed**: Web clocks adapt to screen sizes; desktop apps support modern UI themes
 
 ---
-
