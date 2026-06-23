@@ -21,3 +21,12 @@ A sleek and customizable analog clock built with **HTML**, **CSS**, and **JavaSc
 - **JavaScript (ES6)** – logic for time updates
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Clock.png" width="48%" />
+</p>
+
+---
+
