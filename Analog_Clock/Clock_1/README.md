@@ -39,3 +39,12 @@ A beautifully crafted **vintage-style clock** with Roman numerals, ticking sound
   - `drawGloss()` adds a subtle glossy arc to simulate sheen
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Clock.png" width="48%" />
+</p>
+
+---
+
