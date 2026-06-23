@@ -12,3 +12,13 @@ A stylish analog clock built with the **HTML5 Canvas API**, featuring a custom d
 - Dual-tone background gradient for visual appeal
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Clock.png" width="48%" />
+</p>
+
+---
+
+
