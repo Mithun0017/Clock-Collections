@@ -21,3 +21,12 @@ A clean and minimalist **digital clock** built using **HTML**, **CSS**, and **Ja
 - **JavaScript (ES6)** – Time logic and DOM updates
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Clock.png" width="48%" />
+</p>
+
+---
+
