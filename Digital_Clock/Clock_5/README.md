@@ -20,3 +20,13 @@ A simple yet elegant digital clock application built using Python's Tkinter modu
 - `Label()` widget is used to display the clock.
 - `strftime()` gets the current time in hours, minutes, and seconds.
 - `after()` schedules the clock to update every 1000 milliseconds (1 second).
+
+---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Clock.png" width="48%" />
+</p>
+
+---
