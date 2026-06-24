@@ -34,6 +34,14 @@ A sleek desktop digital clock built with **Python** and **Tkinter**, displaying 
 
 ---
 
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Clock.png" width="48%" />
+</p>
+
+---
+
 ## 📫 Contact
 
 - **GitHub**: [@Mithun0017](https://github.com/Mithun0017)  
