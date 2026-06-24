@@ -61,6 +61,15 @@ Clock_6/
 
 ---
 
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Clock.png" width="48%" />
+</p>
+
+---
+
+
 ## 📄 License
 
 This project is open-source and available under the MIT License.
