@@ -24,3 +24,12 @@ A stylish, fully animated **digital clock** built using **HTML, CSS, and JavaScr
 - **JavaScript (ES6)** – Time, date, DOM manipulation
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Clock.png" width="48%" />
+</p>
+
+---
+
