@@ -32,3 +32,12 @@ A beautiful and responsive analog clock built using **HTML**, **CSS**, and **Jav
 - Custom properties (`--clr`, `--h`, `--i`) are used for colors, hand heights, and positioning numbers.
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Clock.png" width="48%" />
+</p>
+
+---
+
