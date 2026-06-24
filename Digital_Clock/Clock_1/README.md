@@ -21,3 +21,12 @@ A sleek and modern **digital clock** built with HTML, CSS, and JavaScript. This 
 - **JavaScript (ES6)** – Real-time clock logic using `setInterval`
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Clock.png" width="48%" />
+</p>
+
+---
+
