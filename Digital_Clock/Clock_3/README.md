@@ -27,3 +27,12 @@ A stylish and interactive **digital clock web app** built using **HTML, CSS, and
 - **JavaScript (ES6)** – Real-time clock logic and DOM manipulation
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Clock.png" width="48%" />
+</p>
+
+---
+
